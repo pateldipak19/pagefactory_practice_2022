@@ -1,0 +1,3 @@
+2022-03-04 12:03:399 INFO  HomePage :25 - Mouse Hover on Computer Tab [[ChromeDriver: chrome on WINDOWS (604ee8c35e8fb68fa618b766eb32fa25)] -> xpath: //ul[@class='top-menu notmobile']/li/a[text()='Computers ']]
+2022-03-04 12:03:797 INFO  HomePage :31 - Clicking on Notebooks link [[ChromeDriver: chrome on WINDOWS (604ee8c35e8fb68fa618b766eb32fa25)] -> xpath: //ul[@class='top-menu notmobile']/li/ul/li/a[@href='/notebooks']]
+2022-03-04 12:03:826 INFO  NotebooksPage :39 - Getting Page navigation text from element [[ChromeDriver: chrome on WINDOWS (604ee8c35e8fb68fa618b766eb32fa25)] -> xpath: //h1[contains(text(),'Notebooks')]]
